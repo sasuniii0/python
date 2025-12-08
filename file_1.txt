@@ -1,0 +1,3 @@
+I love Programming...
+React, Tailwind, JavaFX, Java, Spring Boot, Node.js, MySQL, MongoDB, Git/GitHub, Python (Jupyter)
+I live in Colombo

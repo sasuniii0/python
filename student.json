@@ -1,0 +1,16 @@
+{
+    "name": "John Doe",
+    "age": 21,
+    "courses": ["Mathematics", "Physics", "Computer Science"],
+    "is_active": true,
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zip": "12345"
+    },
+    "grades": {
+        "Mathematics": 90,
+        "Physics": 85,
+        "Computer Science": 95
+    }
+}
